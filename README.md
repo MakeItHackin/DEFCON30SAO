@@ -1,8 +1,14 @@
-# Deluxe Boozeboard  
+# DEF CON 30 - Deluxe Boozeboard Alcohol Sensor SAO
+
+## PURCHASE HERE:
+https://www.tindie.com/products/27513/
 
 NOTE: The software for this SAO is still being developed and a demonstration video will be released once finished.  If you make a purchase, you acknowledge this fact.  The three main features are listed below.  
 
-#### What is it?
+## YOUTUBE TUTORIAL / DEMONSTRATION: 
+Will be uploaded soon
+
+## DESCRIPTION:  
 The Deluxe Boozeboard is a SAO made for DEF CON 30 "Homecoming."  Inspired by the 1990s, this SAO is shaped like a Talkboy from Home Alone 2.  
 
 The SAO has three main features:  
