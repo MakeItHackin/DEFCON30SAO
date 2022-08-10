@@ -6,7 +6,9 @@ https://www.tindie.com/products/27513/
 NOTE: The software for this SAO is still being developed and a demonstration video will be released once finished.  If you make a purchase, you acknowledge this fact.  The three main features are listed below.  
 
 ## YOUTUBE TUTORIAL / DEMONSTRATION: 
-Will be uploaded soon
+Demonstration Will be uploaded soon
+"Quick Mode" Hack - for quickly heating the alcohol sensor.  Not necessary, but may help speed up the time on waiting for the sensor to heat up:
+https://youtu.be/EJt1E1gEH-I
 
 ## DESCRIPTION:  
 The Deluxe Boozeboard is a SAO made for DEF CON 30 "Homecoming."  Inspired by the 1990s, this SAO is shaped like a Talkboy from Home Alone 2.  
