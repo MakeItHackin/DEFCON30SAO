@@ -6,7 +6,7 @@ https://www.tindie.com/products/27513/
 NOTE: The software for this SAO is still being developed and a demonstration video will be released once finished.  If you make a purchase, you acknowledge this fact.  The three main features are listed below.  
 
 ## YOUTUBE TUTORIAL / DEMONSTRATION: 
-Demonstration Will be uploaded soon
+Demonstration: https://youtu.be/hNfToZ39VKg 
 "Quick Mode" Hack - for quickly heating the alcohol sensor.  Not necessary, but may help speed up the time on waiting for the sensor to heat up:
 https://youtu.be/EJt1E1gEH-I
 
