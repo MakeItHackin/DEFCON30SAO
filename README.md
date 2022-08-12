@@ -14,9 +14,9 @@ https://youtu.be/EJt1E1gEH-I
 The Deluxe Boozeboard is a SAO made for DEF CON 30 "Homecoming."  Inspired by the 1990s, this SAO is shaped like a Talkboy from Home Alone 2.  
 
 The SAO has three main features:  
-1) Alcohol sensor   (still being programmed... stay tuned for more details)  
-2) Video game (still being programmed... stay tuned for more details)  
-3) Flashy Badge mode (for blinking lights while walking around the conference)  
+1) Alcohol sensor 
+2) Video game 
+3) Flashy Badge mode
 
 The SAO can either be powered by a badge with a proper SAO port or by a micro-usb cable (usb cable not included)  
 
