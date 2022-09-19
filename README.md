@@ -1,4 +1,4 @@
-# DEF CON 30 - Deluxe Boozeboard Alcohol Sensor SAO
+# Deluxe Boozeboard Alcohol Sensor SAO
 
 ## PURCHASE HERE:
 https://www.tindie.com/products/27513/
