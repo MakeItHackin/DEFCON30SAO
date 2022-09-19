@@ -3,7 +3,7 @@
 ## PURCHASE HERE:
 https://www.tindie.com/products/27513/
 
-NOTE: The software for this SAO is still being developed and a demonstration video will be released once finished.  If you make a purchase, you acknowledge this fact.  The three main features are listed below.  
+NOTE: As of September 19, 2022, there are two versions of the Boozeboard.  The only physical difference is v1 has a "C" button that doesn't do anything and v2 replaced the "C" button with the "HEAT" button.
 
 ## YOUTUBE TUTORIAL / DEMONSTRATION: 
 Demonstration: https://youtu.be/hNfToZ39VKg  
@@ -11,20 +11,21 @@ Demonstration: https://youtu.be/hNfToZ39VKg
 https://youtu.be/EJt1E1gEH-I
 
 ## DESCRIPTION:  
-The Deluxe Boozeboard is a SAO made for DEF CON 30 "Homecoming."  Inspired by the 1990s, this SAO is shaped like a Talkboy from Home Alone 2.  
+The Deluxe Boozeboard is a SAO made for DEF CON 30 "Homecoming."  Inspired by the 1990s, this SAO is shaped like a Talkboy from Home Alone 2.  This is an unofficial DEF CON badge.
 
 The SAO has three main features:  
-1) Alcohol sensor 
-2) Video game 
-3) Flashy Badge mode
+1) Alcohol sensor (see video for demo)   
+2) Video game (based on Tapper)  
+3) Flashy Badge mode (for blinking lights while walking around)  
 
 The SAO can either be powered by a badge with a proper SAO port or by a micro-usb cable (usb cable not included)  
 
 The nozzle is 3D printed and mouth covers are provided for sanitary use.  The user should not place their mouth directly on the 3D printed material.  Only place mouth on the provided covers.  
 
-Although this SAO features the MQ303A alcohol sensor, it is for entertainment and educational purposes only and should not be used to determine actual levels of alcohol in a person's system.  If you have had any amount to drink, you should wait until sober until driving and please drink responsibly.  This project does not encourage consumption of alcohol.  
+Although this SAO features the MQ303 alcohol sensor, it is for entertainment and educational purposes only and should not be used to determine actual levels of alcohol in a person's system.  If you have had any amount to drink, you should wait until sober until driving and please drink responsibly.  This project does not encourage consumption of alcohol.  
 
-Also included are special homecoming-themed DEF CON 30 stickers!  
+INCLUDED:  
+Boozeboard SAO, 3D printed mouth pieces (2), Mouth Covers (5), SAO Connector for Badge, Stickers.  
 
 #### Why did you make it?
 I enjoy making electronics for DEF CON!
