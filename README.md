@@ -6,6 +6,9 @@ https://www.tindie.com/products/27513/
 NOTE: As of September 19, 2022, there are two versions of the Boozeboard.  The only physical difference is v1 has a "C" button that doesn't do anything and v2 replaced the "C" button with the "HEAT" button.
 
 ## YOUTUBE TUTORIAL / DEMONSTRATION: 
+VERSION 2:
+Demonstration: https://youtu.be/6X5EPYohPvw
+
 VERSION 1:  
 Demonstration: https://youtu.be/hNfToZ39VKg  
 "Quick Mode" Hack - for quickly heating the alcohol sensor.  Not necessary, but may help speed up the time on waiting for the sensor to heat up:
